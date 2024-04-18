@@ -1,5 +1,5 @@
 # Audio-Recording-and-Analysis-in-MATLAB
-*Matlab codes to record audio, analyze its time and frequency domains using FFT and DFT*
+## Matlab codes to record audio, analyze its time and frequency domains using FFT and DFT
 
 **Description:**
 These MATLAB codes records audio from the default input device, plots the time-domain waveform, computes its Fast Fourier Transform (FFT), Discrete Fourier Transform (DFT), and plots the frequency-domain spectrum. It saves the recorded audio as a .wav file.
